@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/raccoonhands/Programming/Code/BigBrain/RoachNet/venv"
+set -gx VIRTUAL_ENV "/home/raccoonhands/Programming/Code/BigBrain/roachpository/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
